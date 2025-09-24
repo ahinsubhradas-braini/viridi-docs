@@ -1,0 +1,15 @@
+
+
+ src---
+    ----ai-chatbot
+        -data-pipeline
+            --lld.drawio
+        -chatbot
+            --lld
+        -purpose_of_ai.md
+    ----ai-transformer
+        -lld.drawio
+        -purpose_of_ai.md
+    ----general
+        -test1.pdf
+        -test2.pdf

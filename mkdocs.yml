@@ -1,0 +1,24 @@
+site_name: Viridi Ai Documentation and diagrams
+theme:
+  name: material
+  logo: assets/logo.png
+  features:
+    - navigation.expand
+    - navigation.sections
+extra_css:
+  - stylesheets/custom.css
+nav:
+  - Home: index.md
+  - General: 
+      Base: general/index.md
+  - AI Chatbot:
+      - Purpose of chatbot: ai-chatbot/purpose_of_ai.md
+      - Data Migration:
+          - LLD Diagram: ai-chatbot/data-migration/index.md
+  - AI Transformer:
+      - Purpose: ai-transformer/purpose_of_ai.md
+      - LLD Diagram: ai-transformer/implementation/index.md
+
+copyright: "© Copyright Viridi ehf 2025.All Rights Reserved"
+extra:
+  generator: false
