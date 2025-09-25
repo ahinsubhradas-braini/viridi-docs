@@ -1,3 +1,3 @@
 # AI-Driven Auto Transformer: 
 
-This Ai-Agent transform different types of api response into one single pattern like our database pattern. So we can onboard different types of ai transformer.
+The AI Agent standardizes various types of API responses into a unified format, aligned with our database pattern. This approach facilitates the integration of different AI transformers, enabling seamless onboarding of diverse AI models.
